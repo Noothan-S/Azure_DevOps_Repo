@@ -1,3 +1,3 @@
 this is file B
-making few chnages
+making few changes
 not in this branch
