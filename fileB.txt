@@ -1,3 +1,2 @@
 this is file B
-making few changes
-not in this branch
+--deleting last two lines--
