@@ -1,2 +1,2 @@
 this is file B
---deleting last two lines--
+
