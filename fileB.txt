@@ -1,3 +1,5 @@
 this is file B
 making changes in file B
 lets add some more lines
+
+---lines ----
