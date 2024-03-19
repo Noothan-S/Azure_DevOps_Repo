@@ -1,2 +1,2 @@
 this is file B
-
+lets add some more lines
