@@ -1,1 +1,3 @@
 this is file C
+
+---adding---line to---check
